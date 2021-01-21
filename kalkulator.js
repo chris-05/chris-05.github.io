@@ -8,7 +8,7 @@ function kalkulator(){
     console.log(opp);
 
     if (opp == "+"){
-        var svar = number1 - number2;
+        var svar = number1 + number2;
     } 
 
     else if (opp == "-"){
